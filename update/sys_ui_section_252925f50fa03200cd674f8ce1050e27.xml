@@ -4,13 +4,13 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-10-07 20:35:58</sys_created_on>
-            <sys_id>c7d9b5d82f3f50105469d7492799b657</sys_id>
+            <sys_created_on>2020-10-14 20:51:21</sys_created_on>
+            <sys_id>6080c26e2fbf10105469d7492799b67e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-07 20:35:58</sys_updated_on>
+            <sys_updated_on>2020-10-14 20:51:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,27 @@
             <element>work_notes</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-10-07 20:35:58</sys_created_on>
-            <sys_id>4bd9b5d82f3f50105469d7492799b657</sys_id>
+            <sys_created_on>2020-10-14 20:51:21</sys_created_on>
+            <sys_id>2880c26e2fbf10105469d7492799b67e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-07 20:35:58</sys_updated_on>
+            <sys_updated_on>2020-10-14 20:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 20:51:21</sys_created_on>
+            <sys_id>a880c26e2fbf10105469d7492799b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-14 20:51:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
